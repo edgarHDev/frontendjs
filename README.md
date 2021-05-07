@@ -1,14 +1,8 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Clone the repository. 
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: run npm install node server.js
 
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-
+ensure the mongodb connection is success to get the users.
